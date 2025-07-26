@@ -4,6 +4,8 @@ Real-Time Object Detection using YOLOv8 and OpenCV
 📝 Description:
 This project implements a real-time object detection system using a webcam feed. It leverages the powerful YOLOv8 (You Only Look Once) model from Ultralytics to detect and identify multiple common objects like faces, bottles, mobile phones, and more. The OpenCV library handles live video capture and visualizes the detection results with bounding boxes and labels on each frame.
 
+**Note** : Press CTRL + C to close the program
+
 🔍 Features:
 - Real-time object detection via webcam
 - Uses YOLOv8n (Nano) for fast, lightweight inference
